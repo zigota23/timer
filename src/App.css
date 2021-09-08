@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.timer{
+  font-size: 5em;
+}
+
+.buttons{
+  display: flex;
+  width: 60%;
+  margin:0 auto;
+  justify-content: space-around;
+}
+
+
